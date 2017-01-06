@@ -23,8 +23,8 @@ p {
     position: absolute;
     border: 1px solid black;
     width:30%;
-    right:0;
-    top:0;
+    right:-1px;
+    top:-1px;
     text-align:center;
 }
 
