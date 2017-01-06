@@ -12,7 +12,7 @@ h1 {
 }
 
 p {
-    margin :0.5em;
+    margin :1.5em;
 }
 
 .row {
@@ -32,8 +32,6 @@ p {
     position:relative;
     background-color:#64BDB6;
     border: 1px solid green;
-    float: left;
-    padding : 1em;
     margin : 10px;
 }
 
