@@ -16,9 +16,7 @@ p {
 }
 
 .row {
-    background-color : yellow;
     position:relative;
-    height:1em;
 }
 
 .title {
