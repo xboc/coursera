@@ -32,7 +32,7 @@ p {
     position:relative;
     background-color:#64BDB6;
     border: 1px solid green;
-    margin : 10px;
+    margin-left : 10px;
 }
 
 #chicken {
