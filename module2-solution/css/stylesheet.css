@@ -29,13 +29,12 @@ p {
 }
 
 .section {
-    width:90%;
     position:relative;
     background-color:#64BDB6;
     border: 1px solid green;
     float: left;
     padding : 1em;
-    margin : 1em;
+    margin : 10px;
 }
 
 #chicken {
