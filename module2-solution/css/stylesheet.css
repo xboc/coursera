@@ -1,8 +1,6 @@
 * {
   font-family: "Comic Sans MS", cursive, sans-serif;
   box-sizing: border-box;
-  /*margin:0;
-  padding: 0;*/
   text-align:justify;
 }
 
@@ -33,7 +31,6 @@ p {
     background-color:#64BDB6;
     border: 1px solid green;
     margin : 10px;
-    float:left;
 }
 
 #chicken {
