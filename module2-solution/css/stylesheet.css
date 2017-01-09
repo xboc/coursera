@@ -33,7 +33,6 @@ p {
     background-color:#64BDB6;
     border: 1px solid green;
     margin : 10px;
-    float:left;
 }
 
 #chicken {
@@ -61,6 +60,10 @@ p {
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6 {
     width: 50%;
+    float: left;
+  }
+  .col-md-12 {
+    width: 100%;
     float: left;
   }
   body {
