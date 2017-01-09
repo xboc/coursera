@@ -1,8 +1,6 @@
 * {
   font-family: "Comic Sans MS", cursive, sans-serif;
   box-sizing: border-box;
-  /*margin:0;
-  padding: 0;*/
   text-align:justify;
 }
 
@@ -66,17 +64,11 @@ p {
     width: 100%;
     float: left;
   }
-  body {
-    background-color: #EAEAEA;
-  }
 }
 /********** small devices only **********/
 @media (max-width: 767px)  {
   .col-xs-12 {
     width: 100%;
     float: left;
-  }
-  body {
-    background-color: #C7E4FE;
   }
 }
