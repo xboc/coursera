@@ -2,19 +2,19 @@ body {
     text-align:justify;
 }
 
-.title {
-    border: 1px solid black;
-    width:100%;
-    text-align:center;
-}
-
 .section {
     background-color : blue;
     border: 2px solid black;
     border-radius: 20px;
 }
 
-.navbar-brand h1 { /* Restaurant name */
+.section h2 {
+    border: 1px solid black;
+    width:100%;
+    text-align:center;
+}
+
+.navbar-brand h1 {
   font-family: 'Lora', serif;
   color: #557c3e;
   font-size: 1.4em;
@@ -32,5 +32,3 @@ body {
 .navbar-header button.navbar-toggle, .navbar-header {
   border: 1px solid #9DAFF3
 }
-
-
