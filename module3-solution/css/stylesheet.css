@@ -1,3 +1,7 @@
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
 .navbar-header button.navbar-toggle, .navbar-header {
   border: 1px solid #61122E
 }
