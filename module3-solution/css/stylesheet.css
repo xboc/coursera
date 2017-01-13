@@ -8,12 +8,6 @@ body {
     border-radius: 20px;
 }
 
-.section h2 {
-    border: 1px solid black;
-    width:100%;
-    text-align:center;
-}
-
 .navbar-brand h1 {
   font-family: 'Lora', serif;
   color: #557c3e;
