@@ -1,9 +1,6 @@
 .title {
-    position: absolute;
     border: 1px solid black;
-    width:30%;
-    right:-1px;
-    top:-1px;
+    width:100%;
     text-align:center;
 }
 
