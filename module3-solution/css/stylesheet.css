@@ -8,6 +8,10 @@ body {
     border-radius: 20px;
 }
 
+.section p {
+    padding : 1em;    
+}
+
 .navbar-brand h1 {
   font-family: 'Lora', serif;
   color: #557c3e;
