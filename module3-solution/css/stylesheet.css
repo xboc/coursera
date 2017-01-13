@@ -3,7 +3,7 @@ body {
 }
 
 .section {
-    background-color : blue;
+    background-color : #D7D7FF;
     border: 2px solid black;
     border-radius: 20px;
 }
@@ -14,10 +14,10 @@ body {
 
 .navbar-brand h1 {
   font-family: 'Lora', serif;
-  color: #557c3e;
+  color: #D7D7FF;
   font-size: 1.4em;
   text-transform: capitalize;
-  text-shadow: 1px 1px 1px #9DAFF3;
+  text-shadow: 1px 1px 1px #D7D7FF;
   margin-top: 0;
   margin-bottom: 0;
   line-height: .75;
