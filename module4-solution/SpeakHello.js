@@ -6,7 +6,8 @@ var speakWord = "Hello";
 // STEP 3: Create an object, called 'helloSpeaker' to which you will attach
 // the "speak" method and which you will expose to the global context
 // See Lecture 52, part 1
-var helloSpeaker.speak = (function (speakWord){
+var helloSpeaker = new Object();
+helloSpeaker.speak = (function (speakWord){
   return (
     function speak(name) {
       console.log(speakWord + " " + name);
