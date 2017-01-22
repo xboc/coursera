@@ -136,6 +136,7 @@ function chooseRandomCategory(categories) {
   console.log("cindex", randomArrayIndex);
 
   // return category object with that randomArrayIndex
+  console.log("categories[randomArrayIndex]", categories[randomArrayIndex]);
   return categories[randomArrayIndex];
 }
 
